@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amit Daniel @SquidFace23
+- 👀 I’m a Malware Analyst 
+- 🌱 I’m currently learning Web Development
+- Python/Java
+- 
