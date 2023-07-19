@@ -2,4 +2,3 @@
 - 👀 I’m a Malware Analyst 
 - 🌱 I’m currently learning Web Development
 - Python/Java
-- 
